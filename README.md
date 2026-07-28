@@ -1,57 +1,71 @@
-# 👋 Hi, I'm Patrick Anim
+# Hi, I'm Patrick 👋
 
-### Software Engineer | Full-Stack & Systems Developer
+### Software Engineer · DevOps & Cloud Infrastructure
 
-I am a **Software Engineer** based in Accra, Ghana, dedicated to building robust, high-performance, and scalable digital solutions. I leverage a diverse technical background—ranging from low-level systems programming in C++ to modern full-stack web architectures—to solve complex problems with efficient, accessible code.
+I build and ship real things — from full-stack web apps to cloud infrastructure provisioned with Terraform and deployed to AWS. My recent work has been focused on DevOps: containerization, CI/CD pipelines, IaC, and serverless architectures.
 
----
-
-### 🚀 At a Glance
-- 💻 **Currently focusing on**: Scaling MERN/PERN applications and optimizing database architecture.
-- 📈 **Performance Obsessed**: My web projects maintain **100/100 Lighthouse scores**.
-- 🎓 **Education**: Professional Diploma in Software Engineering from IPMC Ghana.
-- 🎯 **Goal**: To engineer high-efficiency software that bridges the gap between desktop, web, and AI.
+Based in Accra, Ghana.
 
 ---
 
-### 🛠️ Technical Toolbox
+### What I'm Working With
 
-| Category | Technologies |
-| --- | --- |
-| **Languages** | C#, C/C++, Java, Python, PHP, JavaScript (ES6+), TypeScript, VB.NET |
-| **Full-Stack** | **MERN** (Mongo, Express, React, Node), **PERN** (Postgres, Express, React, Node) |
-| **Databases** | MSSQL, PostgreSQL, MongoDB, MySQL |
-| **DevOps & Cloud** | Docker, Git, GitHub Actions, Vercel, Netlify, Render, CI/CD |
-| **AI & Workflow** | Cursor AI, LLM-Assisted Development, Prompt Engineering, Postman |
-
----
-
-### 📂 Featured Projects
-
-#### 💎 [Full-Stack Portfolio](https://fullstack-dev-portfolio.netlify.app)
-A high-performance system featuring an **ATS-optimized (92/100) resume** integration and perfect Lighthouse performance metrics.
-
-#### 📊 [Developer Resource Tracker](https://dev-resource-tracker-api.netlify.app)
-A productivity engine that improved resource organization by **35%**. Built with a full CRUD MERN stack and secure API.
-
-#### 🛒 [DuCash Ghana](https://ducash-ghana-ecommerce.netlify.app/)
-A real-world business solution for currency equipment, optimized for SEO and professional UI/UX.
-
-#### 🚗 Car Detailing Management System
-A custom **C# & MSSQL** desktop solution that reduced administrative retrieval time by **25%** for local operations.
+| Area | Tools & Technologies |
+|---|---|
+| **Cloud & IaC** | AWS (VPC, ECS Fargate, RDS, Lambda, ECR, ALB, SSM), Terraform, Amazon Bedrock |
+| **DevOps & CI/CD** | GitHub Actions, Docker, Docker Compose, OIDC Federation, Bash Scripting |
+| **Security** | Keyless IAM auth (OIDC), chained Security Groups, SSM secrets management |
+| **Languages** | Python, Bash, HCL, JavaScript/TypeScript, Node.js, C# |
+| **Systems** | Linux (Ubuntu), SSH orchestration, multi-node administration |
+| **Databases** | PostgreSQL, MongoDB, MSSQL, MySQL |
+| **Previously** | MERN/PERN full-stack, C/C++, .NET, React, PHP |
 
 ---
 
-### 📊 GitHub Stats
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leospe24&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leospe24&layout=compact&theme=tokyonight)
+### Projects
+
+#### [OpsTicket — Cloud Infrastructure Platform](https://github.com/Leospe24/ops-ticket-devops-lab)
+A full-stack IT ticketing app (React + Node.js + PostgreSQL) I used as a vehicle to build a production AWS environment from scratch. The DevOps side is the main story here: a 3-tier AWS architecture with VPC, ALB, ECS Fargate, and RDS — all provisioned with Terraform and deployed via a GitHub Actions pipeline that uses OIDC for keyless AWS authentication.
+
+`Terraform` `AWS ECS Fargate` `RDS` `Docker` `GitHub Actions` `OIDC`
 
 ---
 
-### 📫 Let's Connect!
+#### [SRE Assistant — AIOps Incident Pipeline](https://github.com/Leospe24/sre-assistant)
+A serverless pipeline that ingests CloudWatch log errors, sends them to Amazon Bedrock for AI root-cause analysis, and posts formatted incident reports to Slack. Built on AWS Lambda with Terraform IaC and GitHub OIDC — no long-lived credentials anywhere in the pipeline.
+
+`AWS Lambda` `Amazon Bedrock` `Terraform` `Python` `CloudWatch` `GitHub Actions`
+
+---
+
+#### [DevOps Foundations Lab](https://github.com/Leospe24/devops-foundations-lab)
+A 3-node Linux lab (Multipass) I built to practice the fundamentals before moving to the cloud — SSH orchestration, multi-node Bash automation, and a Python security auditing pipeline that detects UID 0 duplicates, exposed credentials, and world-writable files across all nodes.
+
+`Linux` `Bash` `Python` `SSH` `Multi-node Automation`
+
+---
+
+#### Other Projects
+- **[Full-Stack Portfolio](https://fullstack-dev-portfolio.netlify.app)** — Personal site with 100/100 Lighthouse score
+- **[Developer Resource Tracker](https://dev-resource-tracker-api.netlify.app)** — PERN CRUD app with secure REST API
+- **Car Detailing Management System** — C# + MSSQL desktop app for local business operations
+
+---
+
+### Currently
+
+- 🔧 Expanding the DevOps Foundations Lab with resource monitoring and config enforcement
+- 🌍 Open to DevOps / Cloud Infrastructure roles
+
+---
+
+### Connect
+
 - **LinkedIn**: [patrick-anim-dev](https://linkedin.com/in/patrick-anim-dev)
 - **Portfolio**: [fullstack-dev-portfolio.netlify.app](https://fullstack-dev-portfolio.netlify.app)
 - **Email**: [abrahampatrick18@gmail.com](mailto:abrahampatrick18@gmail.com)
+
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leospe24&show_icons=true&theme=tokyonight)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Leospe24&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
