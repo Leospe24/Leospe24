@@ -65,7 +65,13 @@ A 3-node Linux lab (Multipass) I built to practice the fundamentals before movin
 - **Portfolio**: [fullstack-dev-portfolio.netlify.app](https://fullstack-dev-portfolio.netlify.app)
 - **Email**: [abrahampatrick18@gmail.com](mailto:abrahampatrick18@gmail.com)
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leospe24&show_icons=true&theme=tokyonight)
+---
+
+<div align="center">
+
+[![GitHub Streak](https://ninja-streak-stats.vercel.app/?user=Leospe24&theme=tokyonight)](https://github.com/Leospe24)
+
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Leospe24&color=blue&style=flat-square&label=PROFILE+VIEWS" alt="views" />
