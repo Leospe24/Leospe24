@@ -64,7 +64,8 @@ A 3-node Linux lab (Multipass) I built to practice the fundamentals before movin
 - **LinkedIn**: [patrick-anim-dev](https://linkedin.com/in/patrick-anim-dev)
 - **Portfolio**: [fullstack-dev-portfolio.netlify.app](https://fullstack-dev-portfolio.netlify.app)
 - **Email**: [abrahampatrick18@gmail.com](mailto:abrahampatrick18@gmail.com)
-
+- 🛡️ **Active Community Member at Layer5**
+  <div><a href="https://cloud.layer5.io/user/79fbe373-2d7a-49b9-bde4-f7336d7bd53a?tab=badges&badge=first-design" alt="First Design" ><img width="175px" height="252px" src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="First Design" /></a><br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup><a href="https://badges.layer5.io">Get your own badge</a></sup></div>
 ---
 
 <div align="center">
